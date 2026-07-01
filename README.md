@@ -36,6 +36,8 @@ La API queda disponible en `http://localhost:3000`
 ---
 
 ## Estructura del repositorio
+
+\```
 tarea4/
 ├── jmeter/
 │   ├── smoke.jmx       # Smoke test (1 usuario, 5 loops)
@@ -51,8 +53,8 @@ tarea4/
 │   ├── estres-400.jtl
 │   └── picos.jtl
 └── informe/
-└── informe-tarea4.pdf
----
+    └── informe-tarea4.pdf
+\```
 
 ## Ejecutar los planes de prueba
 
